@@ -1,0 +1,8 @@
+Flask
+flask-cors
+scikit-learn
+lxml
+jieba
+chardet
+flask-socketio
+eventlet 

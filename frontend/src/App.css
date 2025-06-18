@@ -1,0 +1,21 @@
+body {
+  background: #f5f6fa;
+  font-family: 'PingFang SC', 'Microsoft YaHei', Arial, sans-serif;
+}
+.ant-upload {
+  margin-bottom: 16px;
+}
+.url-text, .title-text {
+  display: block;
+  max-width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.cards-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  max-width: 100%;
+  overflow-x: hidden;
+} 
